@@ -1,0 +1,12 @@
+
+.row row50 {
+    height: 50%;
+    justify-content: center;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+.row {
+    margin-bottom: 15px;
+    padding: 5px;
+}
